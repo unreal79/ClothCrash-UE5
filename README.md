@@ -7,7 +7,7 @@ Engine to UE5. I've made some tests: mesh with "old" collision (looks like a
 simple box) crashes UE5, but if I redo collision (Auto Convex Collision) 
 there are no more crashes.
 
-Used UE 5.3.2.
+Tested UE 5.3.2 and 5.4.2.
 
 ## Links
 Discussion here: https://forums.unrealengine.com/t/assertion-failed-pointfaces-pointindex-num-3-file-build-ue5-sync-engine-source-runtime-engine-private-skeletalmeshcomponentphysics-cpp-line-3181/1220899
